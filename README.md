@@ -85,8 +85,11 @@ NumPy / Pandas	Data preprocessing
 # 📁 Project Structure
 # 📦 Salary-Prediction-App
  ┣ 📜 app.py
+ 
  ┣ 📜 linear_regression_model.pkl
+ 
  ┣ 📜 README.md
+ 
  ┗ 📂 assets (optional: screenshots, videos)
 
 # 🚀 Getting Started
